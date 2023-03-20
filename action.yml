@@ -1,4 +1,4 @@
-name: "Open Github Issue"
+name: "Open Github Issue 12322312"
 author: c0lima
 description: "Opens a github issue"
 inputs:
@@ -18,3 +18,6 @@ outputs:
 runs:
   using: "node12"
   main: "dist/index.js"
+branding:
+  icon: 'alert-octagon'
+  color: 'purple'
